@@ -1,14 +1,35 @@
+<h1 align="center">GhostBusterBob</h1>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+</div>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+###
 
+<div align="center">
+  <a href="https://jaysendaemon.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  </a>
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=ghostbusterbob&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+###
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=ghostbusterbob&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghostbusterbob/ghostbusterbob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghostbusterbob/ghostbusterbob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghostbusterbob/ghostbusterbob/output/pacman-contribution-graph.svg">
+</picture>
 
-
-![c72816ff70349b19744b80081d409f63](https://github.com/user-attachments/assets/54d3c4bd-ef3c-494c-bfeb-44e527138287)
+###
