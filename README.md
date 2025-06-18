@@ -1,4 +1,4 @@
-<h1 align="center">GhostBusterBob</h1>
+<h1 align="center">ghostbusterbob</h1>
 
 ###
 
