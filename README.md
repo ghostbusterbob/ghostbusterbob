@@ -4,8 +4,11 @@
 <p align="center">Steam page coming soon.</p>
 <div align="center">
   <img src="458081756-c1c5810d-9dce-4c6b-ad82-67fbc35fec599.png" height="400"/>
+  
+  *Screenshot represents an early build. Not representative of final product.*
 </div>
 
+&nbsp;
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
