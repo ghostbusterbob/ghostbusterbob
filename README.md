@@ -3,7 +3,7 @@
 <h3 align="center">☢️ In Development: RE:CLEAN</h3> 
 <p align="center">Steam page coming soon.</p>
 <div align="center">
-<img src="https://github.com/ghostbusterbob/ghostbusterbob/blob/main/458081756-c1c5810d-9dce-4c6b-ad82-67fbc35fec59.png" height="300">
+
 </div>
 
 <div align="center">
