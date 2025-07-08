@@ -8,7 +8,6 @@
 
   <!-- Two smaller images side-by-side -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-    <img src="https://github.com/user-attachments/assets/f88f0c16-cfb4-41be-978a-bb8a132dd201" style="height: 200px;" />
     <img src="https://github.com/user-attachments/assets/8e4fdab5-88a4-478e-9358-432e2e88c74e" style="height: 200px;" />
   </div>
 </div>
