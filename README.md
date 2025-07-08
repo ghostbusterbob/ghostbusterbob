@@ -4,11 +4,12 @@
 <p align="center">Steam page coming soon.</p>
 <div align="center">
   <img src="458081756-c1c5810d-9dce-4c6b-ad82-67fbc35fec599.png" height="350"/>
-  <img src="https://github.com/user-attachments/assets/f88f0c16-cfb4-41be-978a-bb8a132dd201" height="350"/>
-
-
-  *Screenshot represents an early build. Not representative of final product.*
+   <img src="https://github.com/user-attachments/assets/f88f0c16-cfb4-41be-978a-bb8a132dd201" height="250"/>
+  <img src="https://github.com/user-attachments/assets/8e4fdab5-88a4-478e-9358-432e2e88c74e" height="250"/>
 </div>
+  
+
+
 
 &nbsp;
 <div align="center">
