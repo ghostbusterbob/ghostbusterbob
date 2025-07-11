@@ -40,7 +40,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=ghostbusterbob&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostbusterbob&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
