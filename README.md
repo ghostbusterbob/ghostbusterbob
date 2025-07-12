@@ -4,7 +4,7 @@
 <p align="center">Steam page coming soon.</p>
 <div align="center">
   <!-- Large top image -->
-    <img width="2556" height="1436" alt="Screenshot 2025-07-12 154306" src="https://github.com/user-attachments/assets/12d9b5b6-c1fa-4541-86dc-6ddc1c324471" />
+    <img width="600" alt="Screenshot 2025-07-12 154306" src="https://github.com/user-attachments/assets/12d9b5b6-c1fa-4541-86dc-6ddc1c324471" />
 
   </div>
 </div>
