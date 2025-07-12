@@ -4,11 +4,8 @@
 <p align="center">Steam page coming soon.</p>
 <div align="center">
   <!-- Large top image -->
-  <img src="458081756-c1c5810d-9dce-4c6b-ad82-67fbc35fec599.png" style=" width: 500px; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/218b8ea1-5807-417a-9456-519570a11b4b" style="height: 400px;" />
 
-  <!-- Two smaller images side-by-side -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-    <img src="https://github.com/user-attachments/assets/8e4fdab5-88a4-478e-9358-432e2e88c74e" style="height: 200px;" />
   </div>
 </div>
 
