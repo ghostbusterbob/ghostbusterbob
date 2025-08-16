@@ -1,6 +1,6 @@
 <h1 align="center">ghostbusterbob</h1>
 
-<h3 align="center">☢️ In Development: RE:CLEAN</h3> 
+<h3 align="center">☢RE:CLEAN</h3> 
 <p align="center">Steam page coming soon.</p>
 <div align="center">
   <!-- Large top image -->
