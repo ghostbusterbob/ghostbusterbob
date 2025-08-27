@@ -41,7 +41,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ghostbusterbob&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img  src="https://github-profile-trophy.vercel.app?username=ghostbusterbob&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<div align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/e371a9ea-36dd-4582-85d9-d1b430d5b983" />
+</div>
+
 
 ###
