@@ -39,9 +39,4 @@
 </div>
 
 
-<div align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/e371a9ea-36dd-4582-85d9-d1b430d5b983" />
-</div>
-
-
 ###
