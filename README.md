@@ -1,3 +1,10 @@
+
+<div align="center">
+<img width="200" height="368" alt="76821810-modified" src="https://github.com/user-attachments/assets/c51f702f-4d71-4f40-9d58-6894af41616a" />
+
+</div>
+
+
 <h1 align="center">ghostbusterbob</h1>
 
 <h3 align="center">☢RE:CLEAN</h3> 
@@ -7,10 +14,6 @@
 
   <img width = "500" src = "https://github.com/user-attachments/assets/c5d1963a-4d83-4a28-9913-ac92ee5f2954" />
   <br><br>
-
-
-
-
   </div>
 </div>
 
